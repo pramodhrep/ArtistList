@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">ArtistList</string>
+
+    <array name="genres">
+        <item>Electronic</item>
+        <item>Rock</item>
+        <item>Jazz</item>
+        <item>Dubstep</item>
+        <item>Rhythm and Blues</item>
+        <item>Techno</item>
+        <item>Country</item>
+        <item>Electro</item>
+        <item>Indie</item>
+        <item>Pop</item>
+    </array>
 </resources>
